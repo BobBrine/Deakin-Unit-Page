@@ -15,5 +15,12 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+th, td {
+  padidng: 8px;
+  text-aling: left;
+  border-bottom: 1px solid #ddd;tr
+  font-familt: Arial
+}
+tr:nth-child(odd){background-color: #f2f2f2;}
 
 
